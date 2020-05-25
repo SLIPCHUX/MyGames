@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cars2D", "Cars2D\Cars2D.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PingPong", "PingPong\PingPong.vcxproj", "{205C07F9-7C79-4069-A85C-0C2BE4DC8D28}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TheSnake", "TheSnake\TheSnake.vcxproj", "{E3537946-B07B-48C8-97F1-12A4A0FE0FC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{205C07F9-7C79-4069-A85C-0C2BE4DC8D28}.Release|x64.Build.0 = Release|x64
 		{205C07F9-7C79-4069-A85C-0C2BE4DC8D28}.Release|x86.ActiveCfg = Release|Win32
 		{205C07F9-7C79-4069-A85C-0C2BE4DC8D28}.Release|x86.Build.0 = Release|Win32
+		{E3537946-B07B-48C8-97F1-12A4A0FE0FC4}.Debug|x64.ActiveCfg = Debug|x64
+		{E3537946-B07B-48C8-97F1-12A4A0FE0FC4}.Debug|x64.Build.0 = Debug|x64
+		{E3537946-B07B-48C8-97F1-12A4A0FE0FC4}.Debug|x86.ActiveCfg = Debug|Win32
+		{E3537946-B07B-48C8-97F1-12A4A0FE0FC4}.Debug|x86.Build.0 = Debug|Win32
+		{E3537946-B07B-48C8-97F1-12A4A0FE0FC4}.Release|x64.ActiveCfg = Release|x64
+		{E3537946-B07B-48C8-97F1-12A4A0FE0FC4}.Release|x64.Build.0 = Release|x64
+		{E3537946-B07B-48C8-97F1-12A4A0FE0FC4}.Release|x86.ActiveCfg = Release|Win32
+		{E3537946-B07B-48C8-97F1-12A4A0FE0FC4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
